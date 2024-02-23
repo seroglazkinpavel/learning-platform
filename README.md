@@ -1,2 +1,2 @@
 # learning-platform
-FastAAPI
+FastAPI
